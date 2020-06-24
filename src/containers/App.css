@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Pokemon Fire Red Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pokemon Fire Red Regular'), url('pokemon_fire_red.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Pokemon Solid Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pokemon Solid Normal'), url('Pokemon Solid.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Pokemon Fire Red Regular', 'Pokemon Solid Normal';
+    font-size: 1000; 
+    color:black;
+}
