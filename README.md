@@ -1,5 +1,5 @@
 # pokedex
-A simple web app that displays all pokemon from the PokéAPI database. Build with React.
+A simple web app that displays all pokemon from the PokéAPI database. Build using React.
 
 To run the project:
 
